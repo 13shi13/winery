@@ -1,0 +1,4 @@
+repository "winery@alexei175@cloud"
+  path "/"
+    br "/main"
+    co "/main"
